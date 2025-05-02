@@ -161,6 +161,7 @@ To write a Python program that prints messages based on the value of an integer 
 4.End the program.
 
 ## Program:
+```
 n = int(input().strip())
 if(n%2==0):
     if(n>=2 and n<=5):
@@ -171,6 +172,8 @@ if(n%2==0):
         print("Not Weird")
 else:
     print("Weird")
+```
+
 ## Output:
 ![Screenshot 2025-05-02 194411](https://github.com/user-attachments/assets/c7feb68c-2127-4b68-8e0d-97a747986f60)
 
