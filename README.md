@@ -100,6 +100,7 @@ STEP 8: Stop.
           arr2 = list(set(arr))
           arr2.sort()
 print(arr2[-2])
+```
 
 ### Output:
  
@@ -146,11 +147,11 @@ f,l = int(input()),int(input())
 ### Result: Thus, the given program is implemented and executed successfully .
 
 
-SEB: 
-### Aim:
+SEB:
+ ### Aim:
 To write a Python program that prints messages based on the value of an integer using conditional statements.
 
-## Algorithm:
+### Algorithm:
 1.Start the program.
 2.Accept an integer input from the user.
 3.Use conditional statements to check:
@@ -160,7 +161,7 @@ To write a Python program that prints messages based on the value of an integer 
        If the number is even and greater than 20, print "Not Weird".
 4.End the program.
 
-## Program:
+### Program:
 ```
 n = int(input().strip())
 if(n%2==0):
@@ -173,11 +174,8 @@ if(n%2==0):
 else:
     print("Weird")
 ```
+### Output:
+![Screenshot 2025-05-02 194411](https://github.com/user-attachments/assets/f7c2af24-35c8-4e13-9137-6ac737e5fd38)
 
-## Output:
-![Screenshot 2025-05-02 194411](https://github.com/user-attachments/assets/c7feb68c-2127-4b68-8e0d-97a747986f60)
-
-### Result:
-The program successfully evaluates and prints messages based on the input integer using conditional logic.
-
+### Result: Thus, the given program is implemented and executed successfully .
 
