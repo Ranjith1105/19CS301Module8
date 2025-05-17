@@ -3,7 +3,7 @@
 Reg no: 212223020021
 Name: Ranjith P
 
-EXP NO.8a Program to find Find the simple interest
+EXP NO.8a Program to find the simple interest
 
 ### Aim: To Write a Python Program to find Find the simple interest by getting the principal, rate and time value from the user
 ### Algorithm:
