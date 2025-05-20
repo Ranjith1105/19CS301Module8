@@ -147,18 +147,25 @@ f,l = int(input()),int(input())
 ### Result: Thus, the given program is implemented and executed successfully .
 
 
-SEB:
+SEB: Conditional statements
  ### Aim:
 To write a Python program that prints messages based on the value of an integer using conditional statements.
 
 ### Algorithm:
 1.Start the program.
+
 2.Accept an integer input from the user.
+
 3.Use conditional statements to check:
+
        If the number is odd, print "Weird".
+       
        If the number is even and in the range 2 to 5 (inclusive), print "Not Weird".
+       
        If the number is even and in the range 6 to 20 (inclusive), print "Weird".
+       
        If the number is even and greater than 20, print "Not Weird".
+       
 4.End the program.
 
 ### Program:
